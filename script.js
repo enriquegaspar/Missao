@@ -22,8 +22,7 @@ const perguntas = [
         enunciado: "A história e as rivalidades entre clubes são aspectos importantes no futebol?",
         alternativas: [
             {
-                texto: " O FC Barcelona, fundado em 1899, é um dos clubes mais famosos do mundo."
-.",
+                texto: " O FC Barcelona, fundado em 1899, é um dos clubes mais famosos do mundo.",
                 afirmacao: "O FC Barcelona é famoso pela sua rivalidade com o Real Madrid."
             },
             {
