@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "A formação tática de um time pode impactar seu desempenho?",
+        enunciado: "A formação tática de um time pode impactar seu desempenho.",
         alternativas: [
             {
                 texto: "A formação 4-4-2 é conhecida por equilibrar defesa e ataque, com quatro defensores, quatro meio-campistas e dois atacantes.",
@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A história e as rivalidades entre clubes são aspectos importantes no futebol?",
+        enunciado: "A história e as rivalidades entre clubes são aspectos importantes no futebol.",
         alternativas: [
             {
                 texto: " O FC Barcelona, fundado em 1899, é um dos clubes mais famosos do mundo.",
@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Jogadores lendários são frequentemente lembrados por suas conquistas e habilidades?",
+        enunciado: "Jogadores lendários são frequentemente lembrados por suas conquistas e habilidades.",
         alternativas: [
             {
                 texto: "Pelé conquistou três Copas do Mundo com o Brasil (1958, 1962, 1970).",
