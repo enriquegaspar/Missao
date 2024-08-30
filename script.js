@@ -6,41 +6,42 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como você acredita que podemos combater o racismo na sociedade?",
+        enunciado: "A formação tática de um time pode impactar seu desempenho?",
         alternativas: [
             {
-                texto: "Participando de campanhas de conscientização e educação sobre igualdade racial.",
-                afirmacao: "afirmacao1"
+                texto: "A formação 4-4-2 é conhecida por equilibrar defesa e ataque, com quatro defensores, quatro meio-campistas e dois atacantes.",
+                afirmacao: "A formação 4-4-2 proporciona um bom equilíbrio entre defesa e ataque."
             },
             {
-                texto: "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
-                afirmacao: "afirmacao2"
+                texto: " Esse esquema tático ajuda a manter um equilíbrio entre defesa e ataque.",
+                afirmacao: " A formação 4-4-2 é ideal para times que precisam de cobertura defensiva e capacidade de ataque."
             }
         ]
     },
     {
-        enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+        enunciado: "A história e as rivalidades entre clubes são aspectos importantes no futebol?",
         alternativas: [
             {
-                texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
-                afirmacao: "afirmacao3"
+                texto: " O FC Barcelona, fundado em 1899, é um dos clubes mais famosos do mundo."
+.",
+                afirmacao: "O FC Barcelona é famoso pela sua rivalidade com o Real Madrid."
             },
             {
-                texto: "Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
-                afirmacao: "afirmacao4"
+                texto: "O clube é conhecido pela sua rivalidade intensa com o Real Madrid.",
+                afirmacao: "O Barcelona é um dos clubes mais renomados e antigos do futebol mundial."
             }
         ]
     },
     {
-        enunciado: "Como podemos incentivar o uso de energia solar e outras formas de energia limpa, especialmente em comunidades carentes?",
+        enunciado: "Jogadores lendários são frequentemente lembrados por suas conquistas e habilidades?",
         alternativas: [
             {
-                texto: "Defendendo políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
-                afirmacao: "afirmacao5"
+                texto: "Pelé conquistou três Copas do Mundo com o Brasil (1958, 1962, 1970).",
+                afirmacao: "Pelé é conhecido por suas três conquistas de Copa do Mundo."
             },
             {
-                texto: "Promovendo a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
-                afirmacao: "afirmacao6"
+                texto: "Sua habilidade técnica e capacidade de marcar gols o tornaram uma lenda do esporte.",
+                afirmacao: "A habilidade técnica de Pelé o estabeleceu como um ícone global do futebol."
             }
         ]
     }
